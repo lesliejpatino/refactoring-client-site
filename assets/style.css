@@ -25,6 +25,7 @@ h1 {
     color: #d9dcd6;
 }
 
+/* Changed all div tags in these sections to nav tags to match HTML */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,7 +39,7 @@ h1 {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -48,6 +49,7 @@ a {
     text-decoration: none;
 }
 
+/* Increased font size to enhance accessibility */
 p {
     font-size: 18px;
 }
@@ -197,6 +199,7 @@ p {
     text-align: center;
 }
 
+/* changed h2 to h4 in order to maintain sequential order throughout file */
 .footer h4 {
     font-size: 20px;
 }
