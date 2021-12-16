@@ -5,9 +5,11 @@
 Increased font size in paragraphs and added alt attributes to all images in HTML
 
 Switched out <div> elements throughout the document and replaced them with semantic elements such as <header>, <nav> <section>, <footer>
-changed div element to section ... 
-changed span to header
-changed some elements ot be more semantic HTML elements 
+
+Updated the website title to something descriptive and concise
+
+Updated heading attributes to appear in sequential order
+
 
 ## Your Task
 
