@@ -2,13 +2,13 @@
 
 The clients wants their site refactored to simplify the HTML code and to include accessibility features such as alt attributes for images.
 
-![Deployed Site](./assets/images/deployed-site)
-![Increased Font](./assets/images/increased-font)
+![Deployed Site](./assets/images/deployed-site.png)
+![Increased Font](./assets/images/increased-font.png)
 
 ## Built With
 
-* [HTML] 
-* [CSS]
+* [HTML] (.assets/style.css)
+* [CSS] (.hw1-refactoring/index.html)
 * [W3 Schools] https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## Deployed Link
