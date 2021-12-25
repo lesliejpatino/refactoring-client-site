@@ -1,4 +1,4 @@
-# Homework 1 - Client Code Refactoring
+# Client Code Refactoring
 
 The clients wants their site refactored to simplify the HTML code and to include accessibility features such as alt attributes for images.
 
@@ -13,7 +13,7 @@ The clients wants their site refactored to simplify the HTML code and to include
 
 ## Deployed Link
 
-* [HW1-Refactoring] (https://lesliejpatino.github.io/hw1-refactoring/)
+* [Client Code Refactoring] (https://lesliejpatino.github.io/hw1-refactoring/)
 
 ## Authors
 * **Leslie Patino**
